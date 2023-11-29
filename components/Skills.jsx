@@ -18,13 +18,13 @@ import GoogleBard from "../public/assets/skills/GoogleBard.svg";
 import LangChain from "../public/assets/skills/langchain.png";
 import HuggingFace from "../public/assets/skills/huggingface.svg";
 
-import Python from "../public/assets/skills/Python.svg";
+import Python from "../public/assets/skills/python.svg";
 import Javascript from "../public/assets/skills/javascript.png";
 
-import SQL from "../public/assets/skills/SQL.svg";
-import MySQL from "../public/assets/skills/MySQL.svg";
+import SQL from "../public/assets/skills/sql.svg";
+import MySQL from "../public/assets/skills/mysql.svg";
 
-import Rapidminer from "../public/assets/skills/Rapidminer.png";
+import Rapidminer from "../public/assets/skills/rapidminer.png";
 import MATLAB from "../public/assets/skills/matlab.png";
 
 import Tableau from "../public/assets/skills/tableau.svg";
