@@ -4,18 +4,18 @@ import React from "react";
 import TensorFlow from "../public/assets/skills/tensorflow.svg";
 import PyTorch from "../public/assets/skills/pytorch.svg";
 import Scikit_Learn from "../public/assets/skills/Scikit_learn.svg";
-import Numpy from "../public/assets/skills/Numpy.svg";
+import Numpy from "../public/assets/skills/numpy.svg";
 import Pandas from "../public/assets/skills/Pandas.svg";
 import AWS from "../public/assets/skills/aws.png";
 import Matplotlib from "../public/assets/skills/Matplotlib.svg";
-import Seaborn from "../public/assets/skills/Seaborn.png";
-import Plotly from "../public/assets/skills/Plotly.svg";
+import Seaborn from "../public/assets/skills/seaborn.png";
+import Plotly from "../public/assets/skills/plotly.svg";
 import Docker from "../public/assets/skills/docker.svg";
 import OpenCV from "../public/assets/skills/OpenCV.svg";
 
 import ChatGPT from "../public/assets/skills/ChatGPT.svg";
 import GoogleBard from "../public/assets/skills/GoogleBard.svg";
-import LangChain from "../public/assets/skills/LangChain.png";
+import LangChain from "../public/assets/skills/langchain.png";
 import HuggingFace from "../public/assets/skills/huggingface.svg";
 
 import Python from "../public/assets/skills/Python.svg";
